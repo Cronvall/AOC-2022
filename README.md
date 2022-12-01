@@ -2,7 +2,7 @@
 
 | Day            | Language              |  Solved  | Problem Name     |
 | -------------  |:-------------:        | :-----:  | :---:            |
-| Day 01         | ---                   | ---      |---               |
+| Day 01         | Python                   | X      | Calorie Counting               |
 | Day 02         | ---                   | ---      |---               |
 | Day 03         | ---                   | ---      |---               |
 | Day 04         | ---                   | ---      |---               |
