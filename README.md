@@ -3,7 +3,7 @@
 | Day            | Language              |  Solved  | Problem Name     |
 | -------------  |:-------------:        | :-----:  | :---:            |
 | Day 01         | Python                   | X      | Calorie Counting               |
-| Day 02         | ---                   | ---      |---               |
+| Day 02         | Python                   | X      |Rock Paper Scissors               |
 | Day 03         | ---                   | ---      |---               |
 | Day 04         | ---                   | ---      |---               |
 | Day 05         | ---                   | ---      |---               |
