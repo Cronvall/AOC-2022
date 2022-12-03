@@ -4,7 +4,7 @@
 | -------------  |:-------------:        | :-----:  | :---:            |
 | Day 01         | Python                   | X      | Calorie Counting               |
 | Day 02         | Python                   | X      |Rock Paper Scissors               |
-| Day 03         | ---                   | ---      |---               |
+| Day 03         | Python                   | X      | Rucksack Reorganization               |
 | Day 04         | ---                   | ---      |---               |
 | Day 05         | ---                   | ---      |---               |
 | Day 06         | ---                   | ---      |---               |
