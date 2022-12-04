@@ -2,9 +2,9 @@
 
 | Day            | Language              |  Solved  | Problem Name     |
 | -------------  |:-------------:        | :-----:  | :---:            |
-| Day 01         | Python                   | X      | Calorie Counting               |
-| Day 02         | Python                   | X      |Rock Paper Scissors               |
-| Day 03         | Python                   | X      | Rucksack Reorganization               |
+| Day 01         | Python                   |&#9733; &#9733; | Calorie Counting               |
+| Day 02         | Python                   |&#9733; &#9733; |Rock Paper Scissors               |
+| Day 03         | Python                   |&#9733; &#9733; | Rucksack Reorganization               |
 | Day 04         | ---                   | ---      |---               |
 | Day 05         | ---                   | ---      |---               |
 | Day 06         | ---                   | ---      |---               |
