@@ -7,7 +7,7 @@
 | Day 03 |  Python  | &#9733; &#9733; | Rucksack Reorganization |
 | Day 04 |  Python  | &#9733; &#9733; |      Camp Cleanup       |
 | Day 05 |  Python  | &#9733; &#9733; |      Supply Stacks      |
-| Day 06 |   ---    |       ---       |           ---           |
+| Day 06 |  Python  | &#9733; &#9733; |     Tuning Trouble      |
 | Day 07 |   ---    |       ---       |           ---           |
 | Day 09 |   ---    |       ---       |           ---           |
 | Day 10 |   ---    |       ---       |           ---           |
